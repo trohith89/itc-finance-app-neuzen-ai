@@ -3,6 +3,11 @@
 This interactive AI tool dives into **ITC Ltd’s financial journey**, examining revenues, profitability, and fiscal performance through an intelligent chatbot interface. It fuses **smart web scraping**, **vector embeddings**, and **LLMs** to deliver chat-based, **data-backed answers with transparency**.
 
 ---
+---
+
+## 🚀 [👉Hugging Face Deployed Streamlit App Link👈](https://huggingface.co/spaces/trohith89/ITC-Finance-Analyzer-NeuzenAI)
+
+---
 
 ## 🌟 Key Capabilities
 
